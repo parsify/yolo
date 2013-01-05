@@ -28,7 +28,7 @@
   **Don't** be afraid of newlines. 
   Break where needed, but logically.
 
-  On the other side of the fence: (_Makes sense if you view the source_)
+  On the other side of the fence: ( _Makes sense if you view the source_ )
 
   **Don't** be afraid of long lines. Break where needed, and logically.
 
